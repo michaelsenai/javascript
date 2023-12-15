@@ -61,5 +61,6 @@ document.getElementById('btnUpdate')
         id: 3
     };
     updateGame(jogo)
+    
 });
 
